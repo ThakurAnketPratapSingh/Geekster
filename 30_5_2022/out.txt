@@ -1,0 +1,4 @@
+Before sorting the array
+2 3 5 1 7 9 
+After sorting the array
+1 2 3 5 7 9 
